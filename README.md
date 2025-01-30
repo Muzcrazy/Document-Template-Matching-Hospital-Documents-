@@ -6,9 +6,8 @@ This project uses image processing and machine learning techniques for **Documen
 - **Python**: Primary programming language.
 - **OpenCV**: Used for image processing and template matching.
 - **NumPy**: For handling arrays and matrix operations.
-- **Matplotlib**: For visualizing images and results.
 - **Scikit-image**: For image segmentation and other image processing tasks.
-- **pytesseract**
+- **pytesseract** :Used For Extracting text from various format
 
 ## Features
 - Template matching using **image segmentation** techniques like **OCR**.
